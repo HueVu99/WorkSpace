@@ -1,0 +1,138 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal
+}
+
+.nav{
+    height: 84px;
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-between;
+    box-shadow: 0px 1px 0px #DFE7EA;
+
+}
+.nav-list {
+   
+   padding-left: 0;
+    margin: auto 99px;
+    
+}
+.nav-item {
+    list-style: none;
+    margin: 0 22px;
+    display: inline-block;
+    
+}
+.item{
+     list-style: none;
+     color: #011e41;
+     text-decoration: none;
+     display: inline-block;
+     font-weight: 700;
+  }
+.item:hover{
+ opacity: 0.5;
+}
+.cards{
+position: relative;
+background: #EAEEF2;
+max-width: 1440px;
+height: 94px;
+   }
+.card{
+display: flex;
+flex-direction: row; 
+position: absolute;
+left: 124px;
+top: 12px;
+
+    }
+.card-img{
+width: 46px;
+height: 64px;
+margin-right: 20px ;
+    }
+.card-conten{   
+color: #011E41;
+display: flew;
+flex-direction: row;
+align-items: flex-start;
+margin-right: 70px;
+flex: none;
+right: 2004px;
+
+    }
+ .card-conten-top{
+display: flex;
+align-items: center;
+padding: 2px 4px;
+width: 86px;
+height: 22px;
+border: 1px solid #011E41;
+border-radius: 2px;
+font-size: 12px;
+}
+.card-conten-a{
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+flex: none;
+margin: 4px 0px;
+}
+.card-icon-bottom{
+display: inline-block;
+
+}
+.d{
+color: #F8D14F;
+}
+.no{
+color: #D1D3D3;
+}
+.card-contens{
+ display: flex;
+  justify-content: space-between;
+ align-items: center;
+ margin: auto 120px;
+} 
+.card-money{
+ font-size: 20px;
+ line-height: 140%;
+ color: #011E41;
+ 
+}
+.card-button-add{
+background: #011E41;
+color: #FFFFFF;
+padding: 16px 20px;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+border-radius: 2px;
+margin: auto 8px;
+  }
+.nav2{
+padding: 8px 120px 0px;;
+background: #DFE7EA;
+height: 37px;
+  }
+.nav-list2 {
+ display: flex;
+ justify-content: flex-end;
+ padding-left: 0;
+ margin: auto 99px;
+ justify-content: flex-end;
+}
+.nav-item2 {
+ list-style: none;
+ margin: 0 22px;
+ display: inline-block;
+    
+}
