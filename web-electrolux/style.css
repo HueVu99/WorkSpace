@@ -1,0 +1,163 @@
+* {
+    box - sizing: border - box;
+}
+@font - face {
+    font - family : Electrolux Sans;
+    font - style : normal;
+    font - weight : 500;
+    src : url('/dist/sparepart/fonts/ElectroluxSans-Regular.eot#iefix')format("embedded-opentype"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Regular.woff2')format("woff2"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Regular.woff')format("woff"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Regular.ttf')format("truetype");
+    font - display : swap;
+}
+@font - face {
+    font - family : Electrolux Sans;
+    font - style : normal;
+    font - weight : 600;
+    src : url('/dist/sparepart/fonts/ElectroluxSans-Semibold.eot#iefix')format("embedded-opentype"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Semibold.woff2')format("woff2"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Semibold.woff')format("woff"),
+    url('/dist/sparepart/fonts/ElectroluxSans-Semibold.ttf')format("truetype");
+    font - display : swap;
+}
+
+html,
+body {
+    margin : 0;
+    padding : 0;
+    font - family : ElectroluxVN,
+    Electrolux Sans,
+    Roboto,
+    Arial,
+    sans - serif;
+    font - style : normal;
+    font - weight : 600;
+    color : #011e41;
+    font - size : 1 rem;
+}.nav {
+    display : flex;
+    align - items : center;
+    justify - content : space - between;
+    height : 5.25 rem;
+    padding : 0 1.188 rem;
+    background - color : #ffffff;
+    box - shadow : 0 1 px 0 #DFE7EA;
+}.nav__mobile {
+    padding : 0.5 rem;
+    color : #011e41;
+}.nav__mobile {
+    padding : 1 rem;
+    text - decoration : none;
+    font - weight : 700;
+}.product {
+    background : #EAEEF2;
+
+    font - weight : 600;
+    line - height : 17 px;
+    height : 5.875 rem;
+
+
+}.product__right {
+    display : flex;
+    align - items : center;
+    margin : 0 1 rem;
+    justify - content : space - between;
+    height : 5.5 rem;
+}.product__prince {
+    font - size : 1.25 rem;
+    color : #011E41;
+    padding : 0.625 rem 0.313 rem;
+
+}.product__right {
+    color : #FFFFFF;
+    padding : 0.938 rem 0.688 rem;
+    height : 4.5;
+
+}.product - details {
+    background - color : #DFE7EA;
+    height : 2.313 rem;
+}.product - item {
+    list - style : none;
+    padding : 0 0.5 rem;
+}.product__list {
+    display : flex;
+    justify - content : space - between;
+    padding : 0.75 rem 1 rem;
+    margin : 0;
+}.product - link {
+    text - decoration : none;
+    color : #011e41;
+}.product__cart {
+    background : #011E41;
+    color : #FFFFFF;
+    padding : 1.188 rem 1.25 rem;
+    border - radius : 0.125 rem;
+
+}.benerfit {
+    display : block;
+}.benerfit__iteam {
+    display : flex;
+    align - items : center;
+    margin : 20 px 40 px;
+}.benerfit - nav__item {
+    display : flex;
+    align - items : center;
+}.benerfit__infor {
+    display : flex;
+
+
+}.benerfit__content {
+    font - size : 14 px;
+    padding : 2 px;
+}.slide {
+    position : relative;
+}.slide__img {
+    height : 13.75 rem;
+    width : 100 %;
+}.slide__play {
+    top : 5.75 rem;
+    left : 50 %;
+    position : absolute;
+}.slide__text {
+    position : static;
+    color : #011e41;
+    top : 7.5 rem;
+    left : 9.375 rem;
+    background : rgba(0, 0, 0, 0);
+    padding : 0 1.563 rem;
+}.slide__text - title {}.slide__text - paragrap {
+    font - style : normal;
+    font - size : 1 rem;
+    line - height : 1.5 rem;
+}.slide__text - line {
+
+    font - style : italic;
+    font - weight : normal;
+    font - size : 0.813 rem;
+    margin : 1.5 rem 0;
+
+}.slide__icon - dot {}.features {
+    background : #DFE7EA;
+}.features__content {
+    font - size : 2 rem;
+    line - height : 1.214 rem;
+    text - align : center;
+    padding : 2 rem 0;
+    margin : 0;
+}.feature__row {
+    display : flex;
+    flex - direction : column;
+    flex - wrap : wrap;
+    border : 1 px solid rgba(1, 30, 65, 0.1);
+    height : 24 rem;
+    font - weight : 200;
+}.feature__row - item,.feature__row - item - mobile {
+    font - size : 1 rem;
+    line - height : 1.5 rem;
+    padding : 1.1 rem 1.25 rem;
+    border : 1 px solid rgba(1, 30, 65, 0.1);
+    text - align : center;
+}.feature__row - wrap {
+    max - width : 50 %;
+}.specification {}.specification__img {}.specification__content {}.specification__title {}.specification__list {}.specification__item {}
