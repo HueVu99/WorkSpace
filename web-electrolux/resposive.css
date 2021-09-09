@@ -195,6 +195,39 @@
         order: 1;
     }
     .specification__third {}
+    .complementary-products {
+        background-color: #DFE7EA;
+
+
+    }
+    /* .specification__img {
+
+        height: 12px;
+        width: 6px;
+        left: 105px;
+        top: 4px;
+        border-radius: 0;
+
+    } */
+    .complementary-products__list {
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+    .complementary-products__item {
+        flex-direction: column;
+        display: flex;
+
+
+    }
+    .complementary-produts__content {}
+    .mau {}
+    .complementary-produts__price {}
+    .btn {}
+    .btn__left {}
+    .btn__right {}
+
 } /* Mobile */
 @media(max-width : 62rem) {
 
