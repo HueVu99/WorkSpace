@@ -250,7 +250,8 @@ background: #EAEEF2;
 li {
     margin-top: 0.5rem ;
 }
-.content-manual-download{
+.content-container{
+
     list-style-type: none;
     padding: 0;
     font-weight: 600;
