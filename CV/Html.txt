@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>CV</title>
+</head>
+<body>
+    <div class="print-area">
+        <div class="header">
+            <img src="https://scontent.fdad3-3.fna.fbcdn.net/v/t1.6435-9/s600x600/165780220_1197601977362992_4707618073318201717_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=FnVwcFzRb4sAX-q187J&_nc_ht=scontent.fdad3-3.fna&oh=75cf54cbc27c2436af19aa8a5db7b6bb&oe=616938AD" alt="">
+            <div class="header-text">
+                <h1>VU TH? HU?</h1>
+                <P>Front-end Developer</P>
+            </div>
+        </div>
+        <div class="content">
+            <div class="left-area">
+                <div class="contact">
+                <h4>CONTACT</h4>
+                <h5>Phone</h5>
+                <p>0975076077</p>
+                <h5>Emaill</h5>
+                <p>vuhue.211001.gmail.com</p>
+                <h5>Home</h5>
+                <p>No. 1 Lane 184, Tran Duy Hung St., Cau Giay Dist., Ha Noi </p>
+            </div>
+            <div class="skills">
+                <h1>SKILLS</h1>
+                <div class="bars">
+                    <div class="bar">
+                        <p>Photograp</p>
+                        <span></span>
+                    </div>
+                    <div class="bar">
+                        <p>HTML/CSS</p>
+                        <span></span>
+                    </div>
+                    <div class="bar">
+                        <p>Javascript</p>
+                        <span></span>
+                    </div>
+                    <div class="bar">
+                        <p>C#</p>
+                        <span></span>
+                    </div>
+                    <div class="bar">
+                        <p>SQL</p>
+                        <span></span>
+                    </div>
+                    <div class="bar">
+                        <p>Language</p>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        <div class="follow">
+            <h1>FOLLOW ME</h1>
+            <h4>facebook</h4>
+            <p>https://www.facebook.com</p>
+            <h4>Instargam</h4>
+            <p>https://www.Instagram.com</p>
+            <h4>Linked</h4>
+            <p>https://www.Linked.com</p>
+            <h4>Skype</h4>
+            <p>https://www.Skype.com</p>
+        </div>
+        </div>
+            <div class="right-area">
+                <div class="about">
+                    <h1><span><i class="far fa-user"></i>
+                    </span> ABOUT ME</h1>
+                    <p>I am a recent graduate of IT major at the University of Mining and Geology.
+                         With my professional knowledge and experience gained from my internship,
+                        I am now fluent in HTML, CSS, Javascript, C#. I desire to apply all the skills learned in my work. Hopefully,
+                        the working environment at the company will help me equip myself with more experience and skills to achieve my goal of becoming a good web developer in the future.</p>
+                    </div>
+             <div class="work">
+                <h1><span><i class="fas fa-suitcase-rolling"></i>
+                    </span>WORK EXPRIENCE</h1>
+                    <div class="work-group">
+                    <h3>WEB DESIGNER</h3>
+                    <span>2020/2021</span>
+                    <p>Worked as part of a multi-disciplinary team,
+                         carrying out ad-hoc tasks as requested by the IT Manager.
+                          Had a specific brief to ensure the websites build for customer’s precisely matched their requirements.</p>
+                    <p>Wrote internal and external design specifications.
+                    Performed maintenance and updates to existing client Web sites.
+                    Involved in creating a comparison site from scratch.
+                    Helped end users to solve operating problems.
+                    Participated in brainstorming sessions to come up with ideas.
+                    Documented software and technical specifications.
+                    Worked on multiple projects simultaneously to a high standard.
+                    Involved in a project to develop a large online gaming website.
+.</p>
+                    </div>
+                     <div class="work-group">
+                    <h3>FRONT-END DEVERLOPER</h3>
+                    <span>2021/2022</span>
+                    <p>Responsible for working on a range of projects ,
+                         designing appealing websites and interacting on a daily basis with graphic designers,
+                         back-end developers, and marketers.</p>
+                         
+                    </div>
+            </div> 
+            
+        <div class="education">
+                <h1><span><i class="fas fa-book"></i>
+                </span>EDUCATION</h1>
+                <div class="edu-group">
+                    <h4> HANOI UNIVERSITY OF MINING AND GEOLOGY</h4>
+                    <span>2019-2023</span>
+                    <p>Computer Science Engineer</p>
+                </div> 
+                <div class="edu-group">
+                    <h4>Intelligent Technology</h4>
+                    <span>2020-2021</span>
+                    <p>Learning/ working individually and with friends to improve class projects and personal projects.
+Knowledge of PHP, HTML, CSS, XML and JavaScript/ jQuery.
+Awareness of the Web Development industry, and new technologies.</p>
+                </div> 
+                
+  </div>
+</body>
+</html>
